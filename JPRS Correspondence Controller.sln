@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "JPRS Correspondence Controller", "JPRS Corrospondence Controller\JPRS Correspondence Controller.vbproj", "{ED36CB75-B324-4E1B-8180-80A55B1632C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED36CB75-B324-4E1B-8180-80A55B1632C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED36CB75-B324-4E1B-8180-80A55B1632C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED36CB75-B324-4E1B-8180-80A55B1632C1}.Debug|x86.ActiveCfg = Debug|x86
+		{ED36CB75-B324-4E1B-8180-80A55B1632C1}.Debug|x86.Build.0 = Debug|x86
+		{ED36CB75-B324-4E1B-8180-80A55B1632C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED36CB75-B324-4E1B-8180-80A55B1632C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED36CB75-B324-4E1B-8180-80A55B1632C1}.Release|x86.ActiveCfg = Release|x86
+		{ED36CB75-B324-4E1B-8180-80A55B1632C1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
